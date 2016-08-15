@@ -1,6 +1,5 @@
 import java.util.*;
 public class GAME {
-	//BOARD b=new BOARD();
 	public void randomfun(char[][] a,int[] te)
 	{
 		Random r=new Random();
