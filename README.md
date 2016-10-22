@@ -12,8 +12,8 @@ It has four playing modes:
 
 Run the following commands in a terminal
 
-javac GAME.java
-java GAME
+- javac GAME.java
+- java GAME
 
 Requires jdk(>=1.8.0) package installed
 and path variable set ( for windows pc )
