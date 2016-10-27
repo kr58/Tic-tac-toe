@@ -4,9 +4,10 @@ This is a simple implementation for Tic Tac Toe game in java
 It has four playing modes:
 
 - User vs User
-- User vs AI ( Can Never Be Beaten )
+- User vs AI 
 - User vs CPU ( Uses random locations for turn )
 - CPU vs AI
+ // Updates in AI Algorithm are welcome for changes 
 
 # How To Run
 
