@@ -6,7 +6,7 @@ It has four playing modes:
 - User vs User
 - User vs AI 
 - User vs CPU ( Uses random locations for turn )
-- CPU vs AI
+- CPU vs AI<br>
  // Updates in AI Algorithm are welcome for changes 
 
 # How To Run
